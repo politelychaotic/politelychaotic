@@ -1,12 +1,12 @@
-## Hi there 👋
+## About me
+
+- 🔭 I’m currently working on getting a BS in Computer Engineering.
+- 🌱 I’m currently learning offensive security with TryHackMe and HackTheBox. I am also scripting in my freetime in (Python, Bash, C/++), and working my way through Hands On Hacking by Matthew Hickey and Jennifer Arcuri, where I am pentesting a vulnerable mailserver VM, and Black Hat Python by Justin Seitz and Tim Arnold where I am working on my python scripting for terminal programs, and for building networking apps (especially for the purposes of pentesting and reconnaissance).
 
 <!--
 **politelychaotic/politelychaotic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
